@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "name": "Apel",
+    "imageName": "Apel",
+    "description": "Khasiatnya: Kaya antioksidan, membantu menurunkan kolesterol dan menjaga kesehatan jantung."
+  },
+  {
+    "id": 2,
+    "name": "Pisang",
+    "imageName": "Pisang",
+    "description": "Khasiatnya: Mengandung kalium tinggi, baik untuk tekanan darah dan energi tubuh."
+  },
+  {
+    "id": 3,
+    "name": "Jeruk",
+    "imageName": "Jeruk",
+    "description": "Khasiatnya: Sumber vitamin C, meningkatkan daya tahan tubuh dan mencegah sariawan."
+  },
+  {
+    "id": 4,
+    "name": "Mangga",
+    "imageName": "Mangga",
+    "description": "Khasiatnya: Mengandung vitamin A dan E, baik untuk kesehatan mata dan kulit."
+  },
+  {
+    "id": 5,
+    "name": "Semangka",
+    "imageName": "Semangka",
+    "description": "Khasiatnya: Tinggi kandungan air, membantu hidrasi dan menurunkan tekanan darah."
+  },
+  {
+    "id": 6,
+    "name": "Strawberi",
+    "imageName": "Strawberi",
+    "description": "Khasiatnya: Kaya vitamin C dan antioksidan, menjaga kekebalan dan kesehatan kulit."
+  },
+  {
+    "id": 7,
+    "name": "Nanas",
+    "imageName": "Nanas",
+    "description": "Khasiatnya: Mengandung bromelain, membantu pencernaan dan mengurangi peradangan."
+  },
+  {
+    "id": 8,
+    "name": "Sirsak",
+    "imageName": "Sirsak",
+    "description": "Khasiatnya: Mengandung senyawa antioksidan, diyakini membantu melawan sel kanker."
+  },
+  {
+    "id": 9,
+    "name": "Durian",
+    "imageName": "Durian",
+    "description": "Khasiatnya: Mengandung energi dan zat besi, meningkatkan stamina dan produksi sel darah merah."
+  },
+  {
+    "id": 10,
+    "name": "Alpukat",
+    "imageName": "Alpukat",
+    "description": "Khasiatnya: Kaya lemak sehat, baik untuk jantung dan menurunkan kolesterol jahat."
+  }
+]
+
